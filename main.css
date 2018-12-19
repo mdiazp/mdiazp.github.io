@@ -1,0 +1,26 @@
+body {
+	margin: 0 20% 0 20%;
+}
+
+h1 {
+	text-align: center;
+}
+
+#contact {
+	margin-left: 22%;
+	list-style: none;
+}
+
+#contact li {
+	display: inline;
+	margin: 0 1% 0 1%;
+}
+
+figure {
+	margin-top: 1%;
+	margin-left: 36%;
+}
+
+img {
+	border-radius: 50%;
+}
